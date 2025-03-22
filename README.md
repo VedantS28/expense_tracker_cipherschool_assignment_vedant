@@ -112,8 +112,8 @@ flutter run
 ---
 
 ### 🎥 **Demo and APK**
-- **[Watch Working Video](#)**  
-- **[Download APK](#)**  
+- **[Watch Working Video](https://drive.google.com/file/d/1ocWJtMNzROdKGTh5x7mAiWh1HKeHVRnR/view?usp=sharing)**  
+- **[Download APK](https://drive.google.com/file/d/1rTLT6QoHSu9i_mEPm393VZRFc5iM6Any/view?usp=sharing)**  
 
 ---
 
