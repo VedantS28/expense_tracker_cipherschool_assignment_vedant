@@ -1,0 +1,53 @@
+name: expense_tracker_cipherschool_assignment
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.5.1
+  cloud_firestore: ^5.6.5
+  provider: ^6.1.2
+  google_sign_in: ^6.2.2
+  shared_preferences: ^2.5.2
+  go_router: ^14.8.1
+  animated_bottom_navigation_bar: ^1.4.0
+  rxdart: ^0.28.0
+  firebase_storage: ^12.4.4
+  intl: ^0.20.2
+  image_picker: ^1.1.2
+  firebase_messaging: ^15.2.4
+  flutter_local_notifications: ^19.0.0
+  url_launcher: ^6.3.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.5
+  connectivity_plus: ^6.1.3
+  uuid: ^4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/google_logo.png
+    - assets/logo.png
+    - assets/bottom_left_circle.png
+    - assets/top_right_circle.png
+  fonts:
+    - family: ABeeZee
+      fonts:
+        - asset: assets/fonts/ABeeZee-Regular.ttf
+    - family: Bruno Ace SC
+      fonts:
+        - asset: assets/fonts/BrunoAceSC-Regular.ttf
